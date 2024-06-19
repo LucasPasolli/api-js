@@ -1,0 +1,11 @@
+terminal en back
+
+npm init -y
+npm install sqlite3 sequelize cors express
+node index.js
+
+abrir otra terminal en front
+
+npx create-react-app frontend template
+npm i -y  // npm install
+npm start
